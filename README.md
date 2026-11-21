@@ -81,4 +81,5 @@ Se aparecer erro de desenvolvedor ou código 10, o SHA-1 cadastrado não bate co
 - Somente leitura: não responde, arquiva nem apaga e-mails.
 - Sincronização manual, sem atualização em segundo plano.
 - Anexos não são baixados.
+- Não é garantido que conecte a contas institucionais
 - `gmail.readonly` é um escopo restrito do Google: o modo de teste serve para uso pessoal e avaliação, mas publicar para o público exige a verificação OAuth do Google.
