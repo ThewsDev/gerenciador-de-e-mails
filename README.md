@@ -38,7 +38,7 @@ Primeiro, crie um projeto (seletor de projetos no topo → **Novo projeto**) e s
 - Nome do app: `Gerenciador de E-mails`
 - E-mail de suporte e de contato: o seu
 - Público-alvo: **Externo**
-- (Opcional) Logotipo do app: assets/images/logo.png
+- (Opcional) Logotipo do app: `assets/images/logo.png`
 
 ### 3. Adicionar o escopo
 
