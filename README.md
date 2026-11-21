@@ -10,6 +10,8 @@ Aplicativo Android (Python + Kivy) que organiza a caixa de entrada do Gmail.
 - Guarda tudo no aparelho (SQLite), sem servidor próprio.
 - Permite pesquisar por remetente, assunto ou conteúdo, ver as categorias e ler as mensagens.
 
+Confira em [Política de Privacidade](privacy).
+
 ## Instalar o APK
 
 O aplicativo já vem compilado (`bin/emailmanager-1.0.0.apk`), então não é preciso compilar nada.
