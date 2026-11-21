@@ -8,6 +8,10 @@ Aplicativo Android acadêmico, desenvolvido em Python + Kivy, que organiza e per
 - Sincroniza as mensagens da caixa de entrada.
 - Classifica cada e-mail em: Acadêmico, Trabalho, Financeiro, Compras, Marketing e Outros.
 - Permite pesquisar por remetente, assunto ou conteúdo e ler as mensagens.
+- Sincroniza as mensagens da caixa de entrada pelo botão de sincronizar (a primeira vez baixa as 50 mais recentes).
+- Classifica cada e-mail automaticamente em: Acadêmico, Trabalho, Financeiro, Compras, Marketing e Outros.
+- Guarda tudo no aparelho (SQLite), sem servidor próprio.
+- Permite pesquisar por remetente, assunto ou conteúdo, ver as categorias e ler as mensagens.
 
 ## Instalar o APK
 
@@ -33,7 +37,7 @@ O aparelho precisa ter Google Play Services.
 - O aplicativo não envia, apaga nem altera e-mails na conta Gmail.
 - O acesso pode ser removido a qualquer momento em [myaccount.google.com/permissions](https://myaccount.google.com/permissions).
 
-Detalhes completos na [Política de Privacidade](https://thewsdev.github.io/trabalho-integrador/privacy).
+Detalhes completos na **[Política de Privacidade](https://thewsdev.github.io/trabalho-integrador/privacy)**.
 
 ## Limitações
 
