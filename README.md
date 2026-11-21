@@ -14,7 +14,7 @@ Aplicativo Android (Python + Kivy) que organiza a caixa de entrada do Gmail.
 
 O aplicativo já vem compilado (`bin/emailmanager-1.0.0.apk`), então não é preciso compilar nada.
 
-1. Envie o `emailmanager-1.0.0.apk` para o Google Drive (pelo computador ou pelo celular).
+1. Envie o `emailmanager-1.0.0.apk` para o Google Drive.
 2. No celular Android, abra o Drive e baixe o arquivo.
 3. Abra o arquivo baixado e, se o Android pedir, permita a instalação de apps de fontes desconhecidas para o Drive ou para o navegador.
 4. Toque em **Instalar**.
@@ -23,7 +23,7 @@ O aparelho precisa ter Google Play Services.
 
 ## Configurar o Google Cloud
 
-Para usar com a sua conta, crie o seu próprio projeto no [Google Cloud Console](https://console.cloud.google.com/). Assim você não precisa pedir para ser adicionado a ninguém. Se algum menu estiver com nome diferente, procure o equivalente.
+Para usar com a sua conta, crie o seu próprio projeto no [Google Cloud Console](https://console.cloud.google.com/).
 
 Primeiro, crie um projeto (seletor de projetos no topo → **Novo projeto**) e selecione-o.
 
@@ -71,7 +71,7 @@ Esse valor só vale para o APK que foi enviado junto. Se você usar outro APK, o
 
 1. Abra o app, vá em **Configurações** e toque em **Conectar conta Google**.
 2. Escolha a conta que você cadastrou como usuário de teste.
-3. Se aparecer "O Google não verificou este app", toque em **Continuar → Acessar Email Manager** (esperado em projetos em teste).
+3. Se aparecer "O Google não verificou este app", toque em **Continuar → Acessar Gerenciador de E-mails** (esperado em projetos em teste).
 
 Se aparecer erro de desenvolvedor ou código 10, o SHA-1 cadastrado não bate com o APK instalado. Se aparecer "acesso bloqueado", a conta não está nos usuários de teste.
 
