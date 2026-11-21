@@ -10,7 +10,7 @@ Aplicativo Android (Python + Kivy) que organiza a caixa de entrada do Gmail.
 - Guarda tudo no aparelho (SQLite), sem servidor próprio.
 - Permite pesquisar por remetente, assunto ou conteúdo, ver as categorias e ler as mensagens.
 
-Confira em [Política de Privacidade](privacy).
+Confira em [Política de Privacidade](https://thewsdev.github.io/trabalho-integrador/privacy).
 
 ## Instalar o APK
 
