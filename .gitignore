@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
 .buildozer/
-bin/
 venv/
+.vscode
 .venv/
 data/*.db
 data/*.sqlite*
