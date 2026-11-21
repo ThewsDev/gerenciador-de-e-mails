@@ -9,5 +9,6 @@ data/*.sqlite*
 .env
 *.keystore
 *.jks
+*.spec
 client_secret*.json
 data/*.db-*
