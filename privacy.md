@@ -54,4 +54,4 @@ Esta política pode ser atualizada. A data da versão mais recente aparece no to
 
 ## 9. Contato
 
-Matthews Tancredo — **matthewssousa13@gmail.com**
+Matthews Tancredo — **[matthewssousa13@gmail.com](matthewssousa13@gmail.com)**
