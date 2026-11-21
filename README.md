@@ -1,4 +1,4 @@
-# Email Manager
+# Gerenciador de E-mails
 
 Aplicativo Android (Python + Kivy) que organiza a caixa de entrada do Gmail.
 
