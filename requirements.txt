@@ -1,0 +1,7 @@
+# Dependências de desenvolvimento (desktop, apenas para testes de lógica).
+# As dependências do APK ficam em buildozer.spec (campo "requirements").
+kivy==2.3.0
+requests>=2.31
+certifi
+buildozer>=1.5.0
+cython<3.1
