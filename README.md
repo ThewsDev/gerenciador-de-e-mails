@@ -4,7 +4,7 @@ Aplicativo Android (Python + Kivy) que organiza a caixa de entrada do Gmail.
 
 ## O que o aplicativo faz
 
-- Conecta à sua conta Google pelo Google Play Services, com acesso **somente leitura** (`gmail.readonly`).
+- Conecta à sua conta Google pelo Google Play Services, com acesso **somente leitura**.
 - Sincroniza as mensagens da caixa de entrada pelo botão de sincronizar (a primeira vez baixa as 50 mais recentes).
 - Classifica cada e-mail automaticamente em: Acadêmico, Trabalho, Financeiro, Compras, Marketing e Outros.
 - Guarda tudo no aparelho (SQLite), sem servidor próprio.
