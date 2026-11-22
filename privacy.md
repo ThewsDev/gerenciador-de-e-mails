@@ -6,7 +6,7 @@ title: Política de Privacidade — Gerenciador de E-mails
 
 **Última atualização:** 21 de novembro de 2026
 
-O Email Manager é um aplicativo Android de caráter acadêmico, desenvolvido por **[ThewsDev](https://github.com/ThewsDev)**, para organizar e pesquisar e-mails do Gmail. Esta política explica quais dados o aplicativo acessa, como os usa e como você pode removê-los.
+O Gerenciador de E-mails é um aplicativo Android de caráter acadêmico, desenvolvido por **[ThewsDev](https://github.com/ThewsDev)**, para organizar e pesquisar e-mails do Gmail. Esta política explica quais dados o aplicativo acessa, como os usa e como você pode removê-los.
 
 ## 1. Dados que o aplicativo acessa
 
