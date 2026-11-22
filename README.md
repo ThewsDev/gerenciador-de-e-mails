@@ -12,7 +12,9 @@ Aplicativo Android acadêmico, desenvolvido em Python + Kivy, que organiza e per
 - Guarda tudo no aparelho (SQLite), sem servidor próprio.
 - Permite pesquisar por remetente, assunto ou conteúdo, ver as categorias e ler as mensagens.
 
-## Instalar o APK
+## Como instalar e usar
+
+### Instalação
 
 O aplicativo já vem compilado na pasta (`bin/`).
 
@@ -70,3 +72,4 @@ Detalhes completos na **[Política de Privacidade](https://thewsdev.github.io/tr
 - Sincronização manual, sem atualização em segundo plano.
 - Anexos não são baixados.
 - Não é garantido que conecte a contas institucionais
+- O botão "Voltar" do celular não funciona para navegar entre as telas (ele fecha o app). Use a seta **←** dentro do app e a barra de navegação inferior.
