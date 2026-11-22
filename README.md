@@ -60,7 +60,7 @@ O aplicativo já vem compilado na pasta (`bin/`).
  
 ### 1. Instalar o Python
  
-Baixe o Python em [python.org/downloads](https://www.python.org/downloads/) e instale. Use a **versão 3.12** (o Kivy 2.3.0 ainda não funciona bem em versões mais novas, como a 3.13).
+Baixe o Python em [python.org/downloads](https://www.python.org/downloads/windows/) e instale. Use a **versão 3.12** (o Kivy 2.3.0 ainda não funciona bem em versões mais novas, como a 3.13).
  
 > No Windows, na primeira tela do instalador, marque a opção **"Add Python to PATH"** antes de clicar em *Install Now*. Sem isso, o comando `python` não funciona no terminal.
  
