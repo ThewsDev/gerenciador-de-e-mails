@@ -56,7 +56,7 @@ O aplicativo já vem compilado na pasta (`bin/`).
  
 > Ao tocar em qualquer mensagem, ela abre na tela de leitura (somente visualização) e é marcada como lida no app.
 
-## <picture> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" align=absmiddle /> </picture> Executar no VS Code
+## <picture> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="23" align="absmiddle" /> </picture> Executar no VS Code
  
 ### 1. Instalar o Python
  
