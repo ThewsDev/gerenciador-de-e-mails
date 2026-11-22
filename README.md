@@ -1,4 +1,4 @@
-# Gerenciador de E-mails v1.0.0
+# Gerenciador de E-mails — v1.0.0
 
 Aplicativo Android acadêmico, desenvolvido em Python + Kivy, que organiza e permite pesquisar a caixa de entrada do Gmail.
 
