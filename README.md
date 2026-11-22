@@ -14,11 +14,11 @@ Aplicativo Android acadêmico, desenvolvido em Python + Kivy, que organiza e per
 
 ## Instalar o APK
 
-O aplicativo já vem compilado (`bin/emailmanager-1.0.0.apk`).
+O aplicativo já vem compilado na pasta (`bin/`).
 
-1. Envie o `emailmanager-1.0.0.apk` para o Google Drive.
-2. No celular Android, abra o Drive e baixe o arquivo.
-3. Abra o arquivo baixado e, se o Android pedir, permita a instalação de apps de fontes desconhecidas para o Drive ou para o navegador.
+1. Baixe o arquivo [Aqui](https://github.com/ThewsDev/trabalho-integrador/raw/main/bin/emailmanager-1.0.0.apk).
+2. No celular Android, clique no arquivo e baixe.
+3. Abra o arquivo baixado e, se o Android pedir, permita a instalação de apps de fontes desconhecidas.
 4. Toque em **Instalar**.
 
 O aparelho precisa ter Google Play Services.
