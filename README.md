@@ -6,10 +6,9 @@ Aplicativo Android acadêmico, desenvolvido em Python + Kivy, que organiza e per
 
 - Conecta à sua conta Google pelo Google Play Services, com acesso **somente leitura**.
 - Sincroniza as mensagens da caixa de entrada.
-- Classifica cada e-mail em: Acadêmico, Trabalho, Financeiro, Compras, Marketing e Outros.
+- Classifica cada e-mail automaticamente em: Acadêmico, Trabalho, Financeiro, Compras, Marketing e Outros.
 - Permite pesquisar por remetente, assunto ou conteúdo e ler as mensagens.
 - Sincroniza as mensagens da caixa de entrada pelo botão de sincronizar (a primeira vez baixa as 50 mais recentes).
-- Classifica cada e-mail automaticamente em: Acadêmico, Trabalho, Financeiro, Compras, Marketing e Outros.
 - Guarda tudo no aparelho (SQLite), sem servidor próprio.
 - Permite pesquisar por remetente, assunto ou conteúdo, ver as categorias e ler as mensagens.
 
