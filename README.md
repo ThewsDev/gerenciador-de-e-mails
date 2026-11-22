@@ -56,6 +56,36 @@ O aplicativo já vem compilado na pasta (`bin/`).
  
 > Ao tocar em qualquer mensagem, ela abre na tela de leitura (somente visualização) e é marcada como lida no app.
 
+## <picture> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" align=absmiddle /> </picture> Executar no VS Code
+ 
+### 1. Instalar o Python
+ 
+Baixe o Python em [python.org/downloads](https://www.python.org/downloads/) e instale. Use a **versão 3.12** (o Kivy 2.3.0 ainda não funciona bem em versões mais novas, como a 3.13).
+ 
+> No Windows, na primeira tela do instalador, marque a opção **"Add Python to PATH"** antes de clicar em *Install Now*. Sem isso, o comando `python` não funciona no terminal.
+ 
+Para conferir se deu certo, abra o terminal e rode:
+ 
+```bash
+python --version
+```
+ 
+### 2. Instalar as bibliotecas necessárias
+ 
+No terminal do VS Code (`Ctrl + '`), dentro da pasta do projeto:
+ 
+```bash
+pip install kivy==2.3.0 requests certifi
+```
+ 
+### 3. Executar
+ 
+```bash
+python main.py
+```
+ 
+> No computador, a conexão com o Google e a sincronização não funcionam (são exclusivas do Android): os botões apenas exibem um aviso.
+
 ## Privacidade
 
 - Os e-mails ficam armazenados **apenas no aparelho** do usuário.
