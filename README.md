@@ -28,7 +28,7 @@ O aparelho precisa ter Google Play Services.
 
 1. Abra o app, vá no ícone de **Configurações** e toque em **Conectar conta Google**.
 2. Escolha a conta que você cadastrou como usuário de teste.
-3. Se aparecer "O Google não verificou este app", toque em **Continuar → Acessar Gerenciador de E-mails**.
+3. Se aparecer "O Google não verificou este app", toque em **Avançado → Acessar Gerenciador de E-mails**.
 
 ## Privacidade
 
