@@ -1,7 +1,3 @@
----
-title: Política de Privacidade — Gerenciador de E-mails
----
-
 # Política de Privacidade — Gerenciador de E-mails
 
 **Última atualização:** 21 de novembro de 2026
