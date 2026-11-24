@@ -103,4 +103,3 @@ Detalhes completos na **[Política de Privacidade](https://thewsdev.github.io/tr
 - Anexos não são baixados.
 - Não é garantido que conecte a contas institucionais
 - O botão "Voltar" do celular não funciona para navegar entre as telas (ele fecha o app). Use a seta **←** dentro do app e a barra de navegação inferior.
-
